@@ -20,3 +20,6 @@ Thumbs.db
 
 # IDE
 .vscode/
+
+# Drizzle migration metadata
+src/db/migrations/meta/
